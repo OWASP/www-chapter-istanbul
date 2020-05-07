@@ -1,11 +1,11 @@
 ---
-title: Example
+title: Activity
 layout:  null
-tab: true
+tab: false
 order: 1
 tags: example-tag
 ---
 
-## Example
+## OWASP Istanbul Activity
 
-Put whatever you like here: news, screenshots, features, supporters, or remove this file and don't use tabs at all.
+...
