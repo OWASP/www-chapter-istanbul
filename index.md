@@ -18,6 +18,8 @@ Follow chapter news on [Twitter](https://twitter.com/OWASPIstanbul) | [Meetup](h
 Chapter Meeting - 06.04.2025 (Online) <br>
 [OWASP - SQL Injection Attack (Blind)](https://www.meetup.com/tr-TR/owaspistanbul/events/306510533/)
 * [Presentation](https://www.slideshare.net/slideshow/sql-injection-attack-blind-owasp-istanbul/276382225)
+* [Detailed Article - Visible error-based SQL Injection](https://bilisimcikiz.com/2025/01/18/sql-injection-lab-13-visible-error-based-sql-injection/)
+* [Detailed Article - Blind SQL Injection with Time Delays](http://bilisimcikiz.com/2025/01/18/sql-injection-lab-14-blind-sql-injection-with-time-delays/)
 <hr>
 
 Chapter Meeting - 03.04.2023 - Coffeemania Next | Gebze/KOCAELİ <br>
